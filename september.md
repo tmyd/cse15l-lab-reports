@@ -1,9 +1,9 @@
 # **[September](https://genius.com/Earth-wind-and-fire-september-lyrics)**
 ## *by Earth, Wind & Fire*
 
----
-
 > Lyrics
+
+---
 
 Do you remember
 The 21st night of September?
