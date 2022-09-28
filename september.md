@@ -1,6 +1,5 @@
 # **[September](https://genius.com/Earth-wind-and-fire-september-lyrics)**
 ## *by Earth, Wind & Fire*
-![Image](https://t2.genius.com/unsafe/655x655/https%3A%2F%2Fimages.genius.com%2Fb680e9bcd6301c41196eb7f59f8326ab.1000x1000x1.png)
 
 ---
 
@@ -21,3 +20,5 @@ Ba-dee-ya, say, do you remember?
 Ba-dee-ya, dancin' in September
 Ba-dee-ya, never was a cloudy day
 ```
+
+![Image](https://t2.genius.com/unsafe/655x655/https%3A%2F%2Fimages.genius.com%2Fb680e9bcd6301c41196eb7f59f8326ab.1000x1000x1.png)
