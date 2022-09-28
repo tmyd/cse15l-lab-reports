@@ -6,12 +6,13 @@
 
 Do you remember  
 The 21st night of September?  
-Love was changin' the minds of pretenders  
-- While chasin' the clouds away
-- Our hearts were ringin'
-- In the key that our souls were singin'
-1) As we danced in the night, remember
-2) How the stars stole the night away, oh, yeah
+- Love was changin' the minds of pretenders  
+- While chasin' the clouds away  
+
+Our hearts were ringin'  
+In the key that our souls were singin'  
+1) As we danced in the night, remember  
+2) How the stars stole the night away, oh, yeah  
 
 `Hey, hey, hey`
 ```
