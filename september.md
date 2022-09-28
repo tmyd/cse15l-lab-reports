@@ -1,13 +1,12 @@
 # **[September](https://genius.com/Earth-wind-and-fire-september-lyrics)**
 ## *by Earth, Wind & Fire*
+---
 
 > Lyrics
 
----
-
-Do you remember
-The 21st night of September?
-Love was changin' the minds of pretenders
+Do you remember  
+The 21st night of September?  
+Love was changin' the minds of pretenders  
 - While chasin' the clouds away
 - Our hearts were ringin'
 - In the key that our souls were singin'
