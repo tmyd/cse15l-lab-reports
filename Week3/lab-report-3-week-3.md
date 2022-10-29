@@ -66,8 +66,9 @@ class SearchEngine {
 **Methods called**  
 `handleRequest`  
 **Relevent arguments and fields**  
-`localhost:4027/add?s=apple`, the URL entered by the user is the argument passed into the parameter `url`.  
-The value of the field `strings` is the entire list of strings that have been added.  
+`localhost:4027/add?s=apple`, the URL entered by the user is the argument passed into the parameter `url`.   
+The URL is then divided into different fields. First, we get the path, which is the part after 4027 and before the question mark, which is just "/add". Then we get the query, which is the part after the question mark, "s=apple". This query is then parsed into a String array field, `parts`, that's split by the character "=", so that the first element of the array is "s", and the second element is "apple", which is the string to be added.  
+The field `strings` is the entire list of strings that have been added. This second element of `parts` is then added to `strings`.  
 
 **How values change**  
 The string in the url query gets appended to the field `strings`.  
@@ -78,7 +79,9 @@ The string in the url query gets appended to the field `strings`.
 `handleRequest`  
 **Relevent arguments and fields**  
 `localhost:4027/search?s=ap`, the URL entered by the user is the argument passed into the parameter `url`.  
-The value of the field `strings` is the entire list of strings that have been added.  
+The URL is then divided into different fields. First, we get the path, which is the part after 4027 and before the question mark, which is just "/search". Then we get the query, which is the part after the question mark, "s=ap". This query is then parsed into a String array field, `parts`, that's split by the character "=", so that the first element of the array is "s", and the second element is "ap", which is the string to seach for.  
+The field `strings` is the entire list of strings that have been added. This second element of `parts` is then the substring that is searched for in each element of `strings`. A new String ArrayList field, `found`, is created to add the strings from `strings` that contain the substring that's being searched for; strings are added one at a time as `strings` is iterated through.  
+
 **How values change**  
 No values are changed  
 
